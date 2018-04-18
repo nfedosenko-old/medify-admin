@@ -1,15 +1,17 @@
-# Setup
-Firstly, you have to install node_modules by running
+# Medify Admin Web UI
+
+## Getting Started
+Firstly, you have to install dependencies
 
 ```npm install```
 
-To start local server, run the next command
+After that, we can start local server by the following command
 
 ```npm run start```
 
 Then you'll have your admin panel web UI up and running.
 
-# Features
+## Features
 
 Here you can see the list of contacts, with main fields shown.
 After clicking the Edit Contact button, the dialog window will be opened.
