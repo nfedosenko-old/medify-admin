@@ -1,0 +1,362 @@
+{
+    "acb9a1c1-d59e-4b66-b422-78cd8e43ec20": {
+        "first_name": "Kevin",
+        "last_name": "Red",
+        "title": "Business Operations Manager",
+        "color": "385a86",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/profile1.png",
+        "location": "Ukraine/Kharkiv",
+        "team": "Business Operations",
+        "id": "acb9a1c1-d59e-4b66-b422-78cd8e43ec20"
+    },
+    "a1ac0767-2999-4dea-b9a7-fea1b71362d9": {
+        "first_name": "Jens",
+        "last_name": "Johnsson",
+        "title": "Office Manager",
+        "color": "4ec0d6",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile4.png",
+        "location": "Europe/Stockholm",
+        "team": "Data",
+        "id": "a1ac0767-2999-4dea-b9a7-fea1b71362d9"
+    },
+    "aca715a9-4f74-4fbb-aaf2-e0d5d8a379f3": {
+        "first_name": "Petter",
+        "last_name": "Pettersson",
+        "title": "Product Techer",
+        "color": "e0a729",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile3.png",
+        "location": "Europe/Stockholm",
+        "team": "Tech",
+        "id": "aca715a9-4f74-4fbb-aaf2-e0d5d8a379f3"
+    },
+    "f08f4724-307c-4035-ae5d-20ff308f47ab": {
+        "first_name": "Ashley",
+        "last_name": "Grey",
+        "title": "Executive Assistant/Operations Manager (NY)",
+        "color": "e96699",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile7.png",
+        "location": "Ukraine/Kharkiv",
+        "team": "Business Operations",
+        "id": "f08f4724-307c-4035-ae5d-20ff308f47ab"
+    },
+    "3411dd75-09c1-43cd-a0fa-47c2718544f1": {
+        "first_name": "Viktor",
+        "last_name": "Ashley",
+        "title": "Engineer",
+        "color": "a63024",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile1.png",
+        "location": "Europe/Stockholm",
+        "team": "Tech",
+        "id": "3411dd75-09c1-43cd-a0fa-47c2718544f1"
+    },
+    "4d3d777f-df09-491d-a3dc-f12e1d24e910": {
+        "first_name": "Camille",
+        "last_name": "Ahmad",
+        "title": "Android engineer",
+        "color": "385a86",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile1.png",
+        "location": "Europe/Stockholm",
+        "team": "Tech",
+        "id": "4d3d777f-df09-491d-a3dc-f12e1d24e910"
+    },
+    "efbe7498-295b-4325-850b-11a2f57f24da": {
+        "first_name": "Carl",
+        "last_name": "Winnerbeck",
+        "title": "",
+        "color": "db3150",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile1.png",
+        "location": "Ukraine/Kharkiv",
+        "team": "Business Operations",
+        "id": "efbe7498-295b-4325-850b-11a2f57f24da"
+    },
+    "5f067ff0-7459-44c3-a9d3-be6e6e2cbc48": {
+        "first_name": "Tony",
+        "last_name": "Stir",
+        "title": "Product Techer",
+        "color": "8469bc",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile1.png",
+        "location": "Europe/Stockholm",
+        "team": "Tech",
+        "id": "5f067ff0-7459-44c3-a9d3-be6e6e2cbc48"
+    },
+    "a6f701fb-9ad4-4126-ad35-5c6263b254cd": {
+        "first_name": "Max",
+        "last_name": "Jern",
+        "title": "Growth Engineer!",
+        "color": "3c989f",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile7.png",
+        "location": "Ukraine/Kharkiv",
+        "team": "Tech",
+        "id": "a6f701fb-9ad4-4126-ad35-5c6263b254cd"
+    },
+    "138033d3-4305-4022-83ba-0bc2e7b53f8f": {
+        "first_name": "Alex",
+        "last_name": "Dean",
+        "title": "",
+        "color": "df3dc0",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile6.png",
+        "location": "Europe/Stockholm",
+        "team": "Tech",
+        "id": "138033d3-4305-4022-83ba-0bc2e7b53f8f"
+    },
+    "72d0c2b5-3d81-44ab-a9e8-f3fc586f2e0d": {
+        "first_name": "Adam",
+        "last_name": "Doe",
+        "title": "",
+        "color": "3c8c69",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile3.png",
+        "location": "Europe/Stockholm",
+        "team": "Tech",
+        "id": "72d0c2b5-3d81-44ab-a9e8-f3fc586f2e0d"
+    },
+    "e2c1d695-1ab5-422c-a786-77b2498b677b": {
+        "first_name": "Carl Johan",
+        "last_name": "Rangnarsson",
+        "title": "",
+        "color": "7d414c",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile6.png",
+        "location": "Europe/Stockholm",
+        "team": "Tech",
+        "id": "e2c1d695-1ab5-422c-a786-77b2498b677b"
+    },
+    "29dae8db-a107-4087-9c3e-df5d78dc338b": {
+        "first_name": "Katryna",
+        "last_name": "Dostojevsky",
+        "title": "Product Techer",
+        "color": "684b6c",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile3.png",
+        "location": "Europe/Stockholm",
+        "team": "Tech",
+        "id": "29dae8db-a107-4087-9c3e-df5d78dc338b"
+    },
+    "adea65c3-fe19-4a41-a14b-557edb635208": {
+        "first_name": "P\u00e4rham",
+        "last_name": "Bush",
+        "title": "Practicing developer",
+        "color": "d58247",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile3.png",
+        "location": "Europe/Stockholm",
+        "team": "Support",
+        "id": "adea65c3-fe19-4a41-a14b-557edb635208"
+    },
+    "7b7c829a-e9d1-4554-8438-9414a35c0e70": {
+        "first_name": "Marcus",
+        "last_name": "Trump",
+        "title": "Android",
+        "color": "dc7dbb",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile7.png",
+        "location": "Europe/Stockholm",
+        "team": "Tech",
+        "id": "7b7c829a-e9d1-4554-8438-9414a35c0e70"
+    },
+    "0d0959d3-e057-4da1-8616-7d180c188814": {
+        "first_name": "Guilherme",
+        "last_name": "Back",
+        "title": "Globalization Engineer",
+        "color": "53b759",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile7.png",
+        "location": "Europe/Stockholm",
+        "team": "Tech",
+        "id": "0d0959d3-e057-4da1-8616-7d180c188814"
+    },
+    "1c3999a0-b9b4-4abf-9507-5562c3472fbb": {
+        "first_name": "Jonas",
+        "last_name": "Red",
+        "title": "",
+        "color": "235e5b",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile3.png",
+        "location": "Europe/Stockholm",
+        "team": "Recruiting",
+        "id": "1c3999a0-b9b4-4abf-9507-5562c3472fbb"
+    },
+    "48d3d9a3-52b3-4147-b25d-9d90e8f889c0": {
+        "first_name": "Martin",
+        "last_name": "Thomasson",
+        "title": "Barista",
+        "color": "3c989f",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile2.png",
+        "location": "Ukraine/Kharkiv",
+        "team": "Tech",
+        "id": "48d3d9a3-52b3-4147-b25d-9d90e8f889c0"
+    },
+    "724fd3f0-78f6-497a-bd61-91f7367cbc7c": {
+        "first_name": "Alexander",
+        "last_name": "Rydback",
+        "title": "",
+        "color": "db3150",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile2.png",
+        "location": "Europe/Stockholm",
+        "team": "Tech",
+        "id": "724fd3f0-78f6-497a-bd61-91f7367cbc7c"
+    },
+    "b167ca58-51a9-4513-9cd4-70be31b218c6": {
+        "first_name": "Livia",
+        "last_name": "Living",
+        "title": "",
+        "color": "5870dd",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile4.png",
+        "location": "Europe/Stockholm",
+        "team": "Marketing",
+        "id": "b167ca58-51a9-4513-9cd4-70be31b218c6"
+    },
+    "b9636d7c-4861-42cd-8ac1-e3c2a9f397c1": {
+        "first_name": "Joakim",
+        "last_name": "Dan",
+        "title": "",
+        "color": "4bbe2e",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile4.png",
+        "location": "Europe/Stockholm",
+        "team": "Tech",
+        "id": "b9636d7c-4861-42cd-8ac1-e3c2a9f397c1"
+    },
+    "490329cb-5a80-4f45-82de-a8184c5f7917": {
+        "first_name": "Vera",
+        "last_name": "Verasson",
+        "title": "i18n",
+        "color": "9f69e7",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile4.png",
+        "location": "Europe/Stockholm",
+        "team": "Tech",
+        "id": "490329cb-5a80-4f45-82de-a8184c5f7917"
+    },
+    "4cd1bc60-a36e-477b-8476-449160630157": {
+        "first_name": "Laura",
+        "last_name": "Den",
+        "title": "I run the @sto office!",
+        "color": "df3dc0",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile4.png",
+        "location": "Europe/Stockholm",
+        "team": "Business Operations",
+        "id": "4cd1bc60-a36e-477b-8476-449160630157"
+    },
+    "8e99b828-84bb-4713-9d2d-0014489204ca": {
+        "first_name": "Dynamo",
+        "last_name": "Db",
+        "title": "CTO",
+        "color": "99a949",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile2.png",
+        "location": "Europe/Stockholm",
+        "team": "Business Operations",
+        "id": "8e99b828-84bb-4713-9d2d-0014489204ca"
+    },
+    "ef587d73-f1db-45d6-975c-f1eabb920153": {
+        "first_name": "Anton",
+        "last_name": "Veritas",
+        "title": "",
+        "color": "684b6c",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile3.png",
+        "location": "Europe/Stockholm",
+        "team": "Tech",
+        "id": "ef587d73-f1db-45d6-975c-f1eabb920153"
+    },
+    "4f5b7037-f41f-4f3a-a2ec-0d7eadd12b0a": {
+        "first_name": "Katie",
+        "last_name": "Donkey",
+        "title": "",
+        "color": "902d59",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile2.png",
+        "location": "Ukraine/Kharkiv",
+        "team": "Marketing",
+        "id": "4f5b7037-f41f-4f3a-a2ec-0d7eadd12b0a"
+    },
+    "e1cd5db6-38dd-407b-a914-7a978bab7b2a": {
+        "first_name": "Thordur",
+        "last_name": "Thordursson",
+        "title": "mebbe this, mebbe that, mebbe infra?",
+        "color": "c386df",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile1.png",
+        "location": "Europe/Stockholm",
+        "team": "Infrastructure",
+        "id": "e1cd5db6-38dd-407b-a914-7a978bab7b2a"
+    },
+    "536cc2d3-a991-445c-a394-86f0a0f7e4df": {
+        "first_name": "Evy",
+        "last_name": "Raindeer",
+        "title": "Product Techer",
+        "color": "e23f99",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile1.png",
+        "location": "Europe/Stockholm",
+        "team": "Tech",
+        "id": "536cc2d3-a991-445c-a394-86f0a0f7e4df"
+    },
+    "e808fc31-0e2a-49e4-983d-c327b165ac0f": {
+        "first_name": "Rachel",
+        "last_name": "Hansson",
+        "title": "Community Manager",
+        "color": "8f4a2b",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile5.png",
+        "location": "Ukraine/Kharkiv",
+        "team": "Marketing",
+        "id": "e808fc31-0e2a-49e4-983d-c327b165ac0f"
+    },
+    "5069f6d8-9769-4ebe-8559-0010c2e550b0": {
+        "first_name": "Ilya",
+        "last_name": "Grey",
+        "title": "Community",
+        "color": "aba727",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile5.png",
+        "location": "Ukraine/Kharkiv",
+        "team": "Marketing",
+        "id": "5069f6d8-9769-4ebe-8559-0010c2e550b0"
+    },
+    "c63728ee-973a-4793-947e-2c726e1027ee": {
+        "first_name": "Brandon",
+        "last_name": "Red",
+        "title": "Head of Business Operations",
+        "color": "e475df",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile7.png",
+        "location": "Europe/Stockholm",
+        "team": "Operations",
+        "id": "c63728ee-973a-4793-947e-2c726e1027ee"
+    },
+    "51441fc6-c30f-4c7b-b208-adb79e89bf9f": {
+        "first_name": "Martin",
+        "last_name": "Martinsson",
+        "title": "Mobile Merchant Lead",
+        "color": "a63024",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile2.png",
+        "location": "Europe/Stockholm",
+        "team": "Tech",
+        "id": "51441fc6-c30f-4c7b-b208-adb79e89bf9f"
+    },
+    "dd844b18-8130-4b51-b594-ad71d8d112b9": {
+        "first_name": "John",
+        "last_name": "Doe",
+        "title": "",
+        "color": "5a4592",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile1.png",
+        "location": "Europe/Stockholm",
+        "team": "Support",
+        "id": "dd844b18-8130-4b51-b594-ad71d8d112b9"
+    },
+    "d214a96a-7377-4389-98d3-580463a73c36": {
+        "first_name": "Anthony",
+        "last_name": "De Martin",
+        "title": "Growth engineer",
+        "color": "9b3b45",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile4.png",
+        "location": "Ukraine/Kharkiv",
+        "team": "Tech",
+        "id": "d214a96a-7377-4389-98d3-580463a73c36"
+    },
+    "50af7e51-c8c1-4b92-949e-746bf46cc64e": {
+        "first_name": "Ariana",
+        "last_name": "Huffington",
+        "title": "PR",
+        "color": "4cc091",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile6.png",
+        "location": "Ukraine/Kharkiv",
+        "team": "Marketing",
+        "id": "50af7e51-c8c1-4b92-949e-746bf46cc64e"
+    },
+    "7af87499-4a69-491d-824a-3e6472dd99f5": {
+        "first_name": "Anton",
+        "last_name": "Reimertz",
+        "title": "Tech",
+        "color": "5b89d5",
+        "image": "https://s3.eu-central-1.amazonaws.com/medify-code-test/a1ac0767-2999-4dea-b9a7-fea1b71362d9/profile6.png",
+        "location": "Europe/Stockholm",
+        "team": "Tech",
+        "id": "7af87499-4a69-491d-824a-3e6472dd99f5"
+    }
+}
